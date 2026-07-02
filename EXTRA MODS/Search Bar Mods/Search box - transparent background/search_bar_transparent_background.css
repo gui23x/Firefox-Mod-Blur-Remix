@@ -1,0 +1,17 @@
+/* No background color for url bar */
+#nav-bar #urlbar[breakout] {
+  &:not([breakout-extend]) .urlbar-background {
+    border-bottom: none !important;
+    border-top: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+  }
+}
+
+/* Secondary search bar */
+#nav-bar #search-container #searchbar {
+    border-bottom: none !important;
+    border-top: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+  }

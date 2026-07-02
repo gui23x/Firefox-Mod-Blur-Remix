@@ -1,0 +1,21 @@
+/* Thicker min/max/close MS Windows control buttons.
+   Uses HighContrast buttons.  */
+.titlebar-buttonbox-container .titlebar-button.titlebar-min {
+    content: "\ef2d" !important;
+/*    -webkit-text-stroke-width: 1px; */
+}
+
+.titlebar-buttonbox-container .titlebar-button.titlebar-max {
+    content: "\ef2e" !important;
+/*  -webkit-text-stroke-width: 1px; */
+}
+
+.titlebar-buttonbox-container .titlebar-button.titlebar-restore {
+    content: "\ef2f" !important;
+/*    -webkit-text-stroke-width: 1px; */
+}
+
+.titlebar-buttonbox-container .titlebar-button.titlebar-close {
+    content: "\ef2c" !important;
+/*    -webkit-text-stroke-width: 1px; */
+}

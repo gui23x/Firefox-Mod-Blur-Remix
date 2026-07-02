@@ -1,0 +1,6 @@
+/* Remove border from search bar */
+#navigator-toolbox .urlbar-background,
+#navigator-toolbox #searchbar {
+  border: 0 !important;
+  box-shadow: none !important;
+}
