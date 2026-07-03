@@ -1,9 +1,13 @@
 <h1 align="center">Firefox Minimalist Theme</h1>
 <h2 align="center">Firefox-Mod-Blur-Modular</h2>
-<br>
-A minimalist fork of [Firefox-Mod-Blur-Modular](https://github.com/datguypiko/Firefox-Mod-Blur).
 
-![alt text](./ASSETS/other/newdesign.png)
+<br>
+
+A minimalist fork of [Firefox-Mod-Blur-Modular](https://github.com/datguypiko/Firefox-Mod-Blur)
+
+<br>
+
+<img alt="newdesign" src="https://github.com/user-attachments/assets/65a6a7e5-4938-4ce1-9b57-07f9f9e70167" />
 
 ## Changes
 
